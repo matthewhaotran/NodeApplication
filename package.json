@@ -2,15 +2,10 @@
   "name": "nodeapplication",
   "version": "1.0.0",
   "description": "",
-  "engines": {
-    "node": "8.9.1"
-  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "express": "^4.16.2",
